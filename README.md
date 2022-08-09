@@ -13,3 +13,13 @@ task_linux_cli\linux_survival_Elizabeth_Calmau_05.08.22.jpg
 
 I've learned a lot of commands to use in Linux CLI. It makes my job easier and i believe that each newbie must make a habit to use them even when he have to create a directory! It's true programmer way. 
 Also i found out how does the HTTP works. 
+
+
+## Git Collaboration
+
+Links to screenshots of completed tasks:
+
+git_task_collaboration\git_task_collab_Elizabeth_Calmau1.jpg
+git_task_collaboration\git_task_collab_Elizabeth_Calmau2.jpg
+
+I've learned a lot about branching, rebasing, merging and so on. It was really interesting to me the ability to push one branch to another. I found out a difference between git-commands 'reset', 'amend' and 'revert'. In future i will use all this tools in practise. 
