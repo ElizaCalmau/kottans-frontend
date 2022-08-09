@@ -22,4 +22,5 @@ Links to screenshots of completed tasks:
 
 <img src='git_task_collaboration\git_task_collab_Elizabeth_Calmau2.jpg'>
 
+
 I've learned a lot about forking, branching, rebasing, merging and so on. It was really interesting to me the ability to push one branch to another. I found out a difference between git-commands 'reset', 'amend' and 'revert'. I've already started to use this commands at the elementary level.
