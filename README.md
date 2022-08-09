@@ -18,7 +18,7 @@ Also i found out how does the HTTP works.
 ## Git Collaboration
 
 Links to screenshots of completed tasks:
-
+<img src='./git_task_collaboration\git_task_collab_Elizabeth_Calmau1.jpg'>
 git_task_collaboration\git_task_collab_Elizabeth_Calmau1.jpg
 git_task_collaboration\git_task_collab_Elizabeth_Calmau2.jpg
 
