@@ -24,3 +24,20 @@ Links to screenshots of completed tasks:
 
 
 I've learned a lot about forking, branching, rebasing, merging and so on. It was really interesting to me the ability to push one branch to another. I found out a difference between git-commands 'reset', 'amend' and 'revert'. I've already started to use this commands at the elementary level.
+
+
+## Intro to HTML and CSS
+
+The results of passing a course of HTML & CSS in Udacity
+
+<img src='task_html_css_intro\HTML&CSS_Elizabeth_Calmau.jpg'>
+
+The results of passing a course of HTML in CodeAcademy
+
+<img src='task_html_css_intro\HTML_ELizabeth_Calmau.jpg'>
+
+The results of passing a course of CSS in CodeAcademy
+
+<img src='task_html_css_intro\CSS_Elizabeth_Calmau.jpg'>
+
+Mostly this information was not new to me, but i had a better understanding about blocks, display positioning and receved more deep knowlages in CSS classes.
