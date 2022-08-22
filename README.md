@@ -41,3 +41,15 @@ The results of passing a course of CSS in CodeAcademy
 <img src='task_html_css_intro\CSS_Elizabeth_Calmau.jpg'>
 
 Mostly this information was not new to me, but i had a better understanding about blocks, display positioning and receved more deep knowlages in CSS classes.
+
+## Responsive Web Design
+
+The result of passing a course of Responsive Web-Design on Udacity
+
+<img src='task_responsive_web_design\responsive_web_desing_Elizabeth_Calmau.png'>
+
+Flexbox Froggy: 
+<img src='task_responsive_web_design\frogs_CSS_Elizabeth_Calmau.png'>
+
+I was really impressed by this course of CSS! I figured out how does the flexbox works thanks to Flexbox Froggy! It was 
+an amazing experience because this topic was complicated for me earlier. Also I liked a @media in CSS, it's very userfull tool to make a website flexible and responsible. Especially i liked an 'order', it was easier for me to using than 'grids'.
